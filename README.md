@@ -10,11 +10,11 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
-🎓 Je suis un développeur Full Stack avec une solide expertise dans l'écosystème Java (Spring, JEE) et les bases de données Oracle.
+ Je suis un développeur Full Stack avec une solide expertise dans l'écosystème Java (Spring, JEE) et les bases de données Oracle.
 
-🧠 Je conçois des systèmes robustes, scalables et sécurisés, en adoptant les meilleures pratiques du développement logiciel.
+ Je conçois des systèmes robustes, scalables et sécurisés, en adoptant les meilleures pratiques du développement logiciel.
 
 📌 Mon objectif : créer de la **valeur durable** à travers des solutions innovantes.
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📂 Mes projets GitHub
+## 📂 Mes projets
 
 🔗 Découvre tous mes projets ici 👉 [**mes repositories**](https://github.com/MagriAbderrahim?tab=repositories)
 
