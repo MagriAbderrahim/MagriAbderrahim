@@ -1,11 +1,11 @@
-<!-- Header banner -->
+<!-- Header banner --> 
 <img src="https://indoanalytica.com/static/images/bannerr.gif" width="100%"/>
 
-<h1 align="center">👋 Bonjour, je suis Magri Abderrahim</h1>
-<h3 align="center">Développeur Full Stack Java • Expert Oracle • Passionné par l'architecture logicielle</h3>
+<h1 align="center">Salut 👋🏼, je suis Magri Abderrahim</h1>
+<h3 align="center">Développeur Full Stack Java & Expert Oracle • Passionné par la tech & l'innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Développeur+Full+Stack+Java;Expert+Oracle+DBA;Passionné+par+l'architecture+logicielle;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Développeur+Full+Stack;Expert+Oracle+DBA;Passionné+par+l%27architecture+logicielle;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 ## 📂 Mes projets GitHub
 
-🔍 Tu peux consulter tous mes projets ici 👉 [**magriabderrahim**](https://github.com/magriabderrahim)
+🔗 Découvre tous mes projets ici 👉 [**github.com/magriabderrahim**](https://github.com/magriabderrahim)
 
 ---
 
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center">✨ Merci d’avoir visité mon profil ! Si tu apprécies mon travail, n’hésite pas à me suivre ou à me contacter pour collaborer ! 🚀</p>
+<p align="center">✨ Merci de visiter mon profil ! N'hésitez pas à me suivre ou à contribuer ensemble ! 🚀</p>
