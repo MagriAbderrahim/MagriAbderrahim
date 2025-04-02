@@ -5,11 +5,13 @@
 <h3 align="center">Développeur Full Stack Java & Expert Oracle • Passionné par la tech & l'innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Développeur+Full+Stack;Expert+Oracle+DBA;Passionné+par+l%27architecture+logicielle;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Développeur+Full+Stack;Expert+Oracle+DBA;Passionné+par+l%27architecture+logicielle;Always+Learning+📚" alt="Typing animation" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=magriabderrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 ---
 
 ##  À propos de moi
