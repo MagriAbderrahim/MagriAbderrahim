@@ -22,9 +22,9 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Langages
+### 💻 Langages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center">✨ Merci de visiter mon profil ! N'hésitez pas à me suivre ou à contribuer ensemble ! 🚀</p>
+<p align="center">✨ Merci de visiter mon profil ! N'hésitez pas à me suivre ou à contribuer ensemble ! </p>
