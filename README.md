@@ -52,7 +52,7 @@
 
 ## 📂 Mes projets GitHub
 
-🔗 Découvre tous mes projets ici 👉 [**github.com/magriabderrahim**](https://github.com/magriabderrahim)
+🔗 Découvre tous mes projets ici 👉 [**mes repositories**](https://github.com/MagriAbderrahim?tab=repositories)
 
 ---
 
